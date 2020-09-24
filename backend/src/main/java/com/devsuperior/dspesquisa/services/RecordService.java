@@ -25,7 +25,7 @@ public class RecordService {
 	private GameRepository gameRepository;
 	
 	// TO AVOID LOCKING IN THE DATA BASE. READ ONLY
-	@Transactional(readOnly = true)
+	@Transactional
 	public RecordDTO insert(RecordInsertDTO dto) {
 		
 		Record entity = new Record();
