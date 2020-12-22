@@ -12,11 +12,11 @@ The application consists of a game preference survey, where the data is collecte
 
 ## Web Layout
 
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png)
+![Web 1](https://github.com/phfsouza/dspesquisa/blob/master/assets/images/tela1.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 2](https://github.com/phfsouza/dspesquisa/blob/master/assets/images/tela2.png)
 
-![Web 3](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Web 3](https://github.com/phfsouza/dspesquisa/blob/master/assets/images/tela3.png)
 
 ## Conceptual model
 ![Conceptual model](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
@@ -46,7 +46,7 @@ Prerequisites: Java 11
 
 ```bash
 # clone repository
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/phfsouza/dspesquisa.git
 
 # enter the back end project folder
 cd backend
@@ -60,7 +60,7 @@ Prerequisites: npm / yarn
 
 ```bash
 # clone repository
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/phfsouza/dspesquisa.git
 
 # enter the front end web project folder
 cd front-web
