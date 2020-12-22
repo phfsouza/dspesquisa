@@ -37,7 +37,7 @@ The application consists of a game preference survey, where the data is collecte
 ## Implementation in production
 - Back end: Heroku
 - Front end web: Netlify
-- Banco de dados: Postgresql
+- Database: Postgresql
 
 # How to execute the project
 
